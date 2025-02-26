@@ -2,7 +2,7 @@ main: me.m0dii.extraenchants.ExtraEnchants
 name: M0-ExtraEnchants
 author: M0dii
 version: 3.6.2
-api-version: 1.16
+api-version: 1.21
 softdepend: [Vault]
 commands:
   extraenchant:
